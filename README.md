@@ -1,4 +1,4 @@
-# Python3-Mac-Changer
+# Python-Mac-Changer
 Linux Python3 Mac Changer
 
 Usage:
