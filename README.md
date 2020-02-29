@@ -1,5 +1,5 @@
 # Python-Mac-Changer
-Linux Python3 Mac Changer
+Linux Python Mac Changer
 
 Usage:
 
